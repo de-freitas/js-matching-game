@@ -8,5 +8,4 @@ function CardGame(icon = 'alura-pixel-1', alt = 'Logo da Alura') {
     `   
 };
 
-
 export default CardGame;
